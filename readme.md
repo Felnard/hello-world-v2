@@ -1,1 +1,1 @@
-Added some sentence
+Added some sentences
